@@ -8,11 +8,12 @@ header{
     margin-bottom:10.16%;
     display:flex;
     justify-content: space-between;
+    margin-left:-20px;
 }
 
 .menu-nav ul li{
     display:inline-block;
-    margin-right:4px;
+    margin-right:25px;
 }
 
 ul li a{
@@ -23,7 +24,7 @@ input{
     border-radius:20px;
     border:none;
     padding:9px;
-    width:450px;
+    width:500px;
 }
 
 .logo-input{

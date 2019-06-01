@@ -1,0 +1,16 @@
+.section1{
+    width:100%;
+    height:36px;
+    padding-bottom:175px;
+    color:white;
+}
+
+.section1 h1{
+    font-family: Helvetica;
+    font-size:40px;
+
+}
+
+.section1 p{
+    margin-top:7px;
+}
